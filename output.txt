@@ -1,0 +1,4 @@
+sum of elements in array:12
+sum of elements in range:15
+Finding of the missing of array element in an array
+missing element:3
